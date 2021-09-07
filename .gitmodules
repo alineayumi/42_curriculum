@@ -1,18 +1,18 @@
 [submodule "00-ft_libft"]
 	path = 00-ft_libft
-	url = https://github.com/alineayumi/ft_libft
+	url = https://github.com/alineayumi/ft_libft.git
 [submodule "01-ft_get_next_line"]
 	path = 01-ft_get_next_line
-	url = https://github.com/alineayumi/ft_get_next_line
+	url = https://github.com/alineayumi/ft_get_next_line.git
 [submodule "01-ft_printf"]
 	path = 01-ft_printf
-	url = https://github.com/alineayumi/ft_printf
+	url = https://github.com/alineayumi/ft_printf.git
 [submodule "01-ft_born2beroot"]
 	path = 01-ft_born2beroot
-	url = https://github.com/alineayumi/ft_born2beroot
+	url = https://github.com/alineayumi/ft_born2beroot.git
 [submodule "02-ft_server"]
 	path = 02-ft_server
-	url = https://github.com/alineayumi/ft_server
+	url = https://github.com/alineayumi/ft_server.git
 [submodule "02-ft_pushswap"]
 	path = 02-ft_pushswap
-	url = https://github.com/alineayumi/ft_pushswap
+	url = https://github.com/alineayumi/ft_pushswap.git
