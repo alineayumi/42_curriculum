@@ -9,7 +9,7 @@
 	url = https://github.com/alineayumi/ft_printf.git
 [submodule "01-ft_born2beroot"]
 	path = 01-ft_born2beroot
-	url = https://github.com/alineayumi/ft_born2beroot
+	url = https://github.com/alineayumi/ft_born2beroot.git
 [submodule "02-ft_server"]
 	path = 02-ft_server
 	url = https://github.com/alineayumi/ft_server.git
